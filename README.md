@@ -14,7 +14,7 @@ Every topic has its own folder with runnable tests and a short README.
 
 | Week | Topic | Folder |
 | --- | --- | --- |
-| 1 | Setup, first test, locators | coming soon |
+| 1 | Setup, first test, locators | tests/01-first-test |
 
 ## What I learned
 
